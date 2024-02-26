@@ -1,0 +1,20 @@
+.parent{
+    background-color: rgba(190, 190, 190, 0.205);
+}
+.parent_link_active{
+    background: linear-gradient(to top left , rgba(0, 0, 0, 0.527) ,rgba(0, 0, 0, 0.527));
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    color: rgb(255, 255, 255);
+}
+.link_btn , .verify_color {
+    color: rgb(52, 183, 241) !important;
+}
+.link_btn_active{
+    color:rgb(255, 255, 255);
+}
+.link_content{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

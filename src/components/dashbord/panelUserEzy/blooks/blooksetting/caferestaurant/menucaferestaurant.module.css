@@ -1,0 +1,13 @@
+.btn_item{
+    font-family: "engBold" !important;
+    letter-spacing: 1px;
+}
+.classicTag{
+    font-family: "cafe" !important;
+    background-color: rgb(221, 116, 42);
+    letter-spacing: 0.1rem;
+}
+.btn_item:hover ,.classicTag:hover{
+    background-color: rgb(212, 212, 212);
+    transition: 0.3s all ease-in-out;
+}

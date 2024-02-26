@@ -1,0 +1,12 @@
+.menu {
+    height: 100vh;
+}
+
+.menu>div>div:last-child>ul>li>a {
+    font-family: 'sansSmall';
+}
+
+.link_menu:hover {
+    border-bottom: 0.2rem solid #34B7F1 !important;
+    transition:0.1s all ease-in-out;
+}

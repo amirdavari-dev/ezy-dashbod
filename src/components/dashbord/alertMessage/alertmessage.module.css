@@ -1,0 +1,25 @@
+.parentBox {
+    width: fit-content;
+    min-width: 100px;
+    max-width: 300px;
+    text-align: justify;
+    border-bottom: 1px solid red;
+}
+
+.alertbox {
+    font-family: "sansSmall";
+    font-size: 13px;
+}
+.animationAlert{
+    height: 2px;
+    width: 100%;
+    animation: widthBorderAlert 3s linear;
+}
+@keyframes widthBorderAlert {
+    0%{
+        width: 100%;
+    }
+    100%{
+        width: 0%;
+    }
+}

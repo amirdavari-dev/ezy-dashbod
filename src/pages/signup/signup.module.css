@@ -1,0 +1,14 @@
+h5,
+label,
+a,
+button,
+p {
+    font-family: "sansDefault" !important;
+}
+
+input{
+    background-color: rgb(235, 235, 235) !important;
+}
+.ruleText{
+    font-size: 13px;
+}

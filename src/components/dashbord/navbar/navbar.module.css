@@ -1,0 +1,11 @@
+.title_page{
+    text-overflow: ellipsis;
+    direction: rtl;
+    font-family: "sansDefault" !important;
+}
+.vip_btn{
+    background-color: rgb(255, 199, 39) !important;
+    font-size: 10px;
+    font-family: 'sansDefault' !important;
+    font-weight: 500;
+}

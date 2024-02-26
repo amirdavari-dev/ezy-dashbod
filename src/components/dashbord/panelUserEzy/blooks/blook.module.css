@@ -1,0 +1,18 @@
+.title_blook,
+.text_blook {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    direction: rtl;
+    font-family: "sansDefault", "engBold" !important;
+
+}
+
+.title_blook {
+    font-size: 16px;
+}
+
+.text_blook {
+    font-size: 13px;
+    font-weight: 300;
+}

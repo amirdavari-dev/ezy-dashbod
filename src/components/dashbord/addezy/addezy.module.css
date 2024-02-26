@@ -1,0 +1,10 @@
+.btn_add{
+    background-color: rgb(52, 183, 241) !important;
+    bottom: 60px;
+    right: 10px;
+}
+@media(min-width:768px){
+    .btn_add{
+        bottom: 10px;
+    }
+}

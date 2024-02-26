@@ -1,0 +1,6 @@
+.cardBody{
+    margin-top: -50px;
+}
+.title,.text{
+    font-family: "sansDefault","engBold" !important;
+}

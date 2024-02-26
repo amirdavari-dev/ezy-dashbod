@@ -1,0 +1,8 @@
+.modalContent{
+    max-height: 85%;
+}
+@media(min-width:768px){
+    .modalContent{
+        width: 600px;
+    }
+}

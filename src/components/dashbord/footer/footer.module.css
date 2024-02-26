@@ -1,0 +1,21 @@
+.btn_menu,
+.close_btn {
+    top: 80px;
+    border-radius: 10px 0 0 10px;
+    background-color: rgb(52, 183, 241);
+}
+
+.btn_menu:hover{
+    background-color: rgb(52, 183, 241) !important;
+
+}
+.close_btn:hover{
+    background-color: #fff;
+}
+
+@media(min-width:768px) {
+    .footer {
+        width: 200px !important;
+        height: 100vh;
+    }
+}

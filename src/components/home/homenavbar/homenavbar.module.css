@@ -1,0 +1,11 @@
+.link_url{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 12px;
+    font-family: "sansDefault";
+}
+.link_menu:hover {
+    border-bottom: 0.2rem solid #34B7F1 !important;
+    transition:0.1s all ease-in-out;
+}

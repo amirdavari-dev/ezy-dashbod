@@ -1,0 +1,30 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+}
+@font-face {
+  font-family: sansDefault;
+  src: url(assets/fonts/persian/sansDefault.ttf);
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: sansSmall;
+  src: url(assets/fonts/persian/sansSmall.ttf);
+}
+@font-face {
+  font-family: engBold;
+  src: url(assets/fonts/english/TitilliumBold.ttf);
+}
+@font-face {
+  font-family: engLight;
+  src: url(assets/fonts/english/TitilliumLight.ttf);
+}
+@font-face {
+  font-family: cafe;
+  src: url(assets/fonts/english/cafefont.otf);
+}

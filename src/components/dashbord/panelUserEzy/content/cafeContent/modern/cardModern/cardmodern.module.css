@@ -1,0 +1,29 @@
+.childCard {
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffffff77 !important;
+}
+
+.childCard h6 {
+    background: linear-gradient(to right, #30cfd9 0%, #330867 100%);
+    background-clip: text;
+    color: transparent;
+    font-family: "engBold" !important;
+}
+
+.cardParent:hover {
+    transition: 0.4s all ease-in-out !important;
+    .childCard {
+        transition: 0.4s all ease-in-out !important;
+        top: 50%;
+        backdrop-filter: blur(0.4rem);
+        -webkit-backdrop-filter: blur(0.4rem);
+        background-color: #fff !important;
+    }
+    .imgBgCard {
+        filter: blur(0.1rem);
+        transition: 0.4s all ease-in-out !important;
+    }
+
+}

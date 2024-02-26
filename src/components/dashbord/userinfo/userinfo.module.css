@@ -1,0 +1,13 @@
+h6,button{
+    font-family: "sansDefault" !important;
+}
+span{
+    font-family: "sansSmall" !important;
+}
+.box_info{
+    width: 200px;
+}
+.vip_btn{
+    background-color: #F1D334 !important;
+    font-size: 12px;
+}

@@ -1,0 +1,13 @@
+.title_cafe {
+    font-family: "engBold" !important;
+}
+
+.title_item {
+    font-family: "cafe" !important;
+    letter-spacing: 3px;
+}
+
+.descripe_item {
+    font-family: "engLight" !important;
+    font-size: 12px;
+}

@@ -1,0 +1,10 @@
+h6{
+    font-family: "sansDefault";
+    font-size:18px;
+    font-weight: bold;
+}
+.decribtion{
+    font-family: "sansSmall";
+    height: 70px;
+    direction: rtl;
+}

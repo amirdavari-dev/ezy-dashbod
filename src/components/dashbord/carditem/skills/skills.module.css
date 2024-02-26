@@ -1,0 +1,10 @@
+.skills_parent {
+    background-color: rgba(190, 190, 190, 0.205);
+}
+.skills {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    direction: rtl;
+    font-family: 'sansDefault' !important;
+}
